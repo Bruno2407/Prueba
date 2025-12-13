@@ -1,0 +1,403 @@
+[02:43:13] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.9+10-Ubuntu-124.04; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[02:43:13] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[02:43:13] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[02:43:21] [ServerMain/INFO]: [PluginInitializerManager] Initialized 21 plugins
+[02:43:21] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+ - PlugManX (3.0.2)
+[02:43:21] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (20):
+ - AuraSkills (2.3.9), BrunoCore (1.0), ConditionalEvents (4.72.2), Essentials (2.22.0-dev+47-faa02b5), EssentialsChat (2.22.0-dev+47-faa02b5), EssentialsSpawn (2.22.0-dev+47-faa02b5), ForcePack (1.3.74-SNAPSHOT), ItemEdit (3.7.7), LuckPerms (5.5.0), Multiverse-Core (5.3.4), Multiverse-Inventories (5.2.2), Multiverse-NetherPortals (5.0.3), Multiverse-Portals (5.1.1), MythicMobs (5.11.0-86ca150e), SkinsRestorer (15.9.0), Vault (1.7.3-b131), ViaVersion (5.5.0), VoidGen (2.3.4), WorldEdit (7.3.17+7262-c7fbe08), WorldGuard (7.0.14+2339-43997ec)
+[02:43:28] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:43:32] [ServerMain/INFO]: Loaded 1407 recipes
+[02:43:32] [ServerMain/INFO]: Loaded 1520 advancements
+[02:43:32] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[02:43:33] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 936.3ms
+[02:43:33] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[02:43:33] [Server thread/INFO]: Loading properties
+[02:43:33] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[02:43:33] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[02:43:33] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:43:33] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:43:34] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[02:43:34] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[02:43:34] [Server thread/INFO]: Default game type: SURVIVAL
+[02:43:34] [Server thread/INFO]: Generating keypair
+[02:43:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:43:34] [Server thread/INFO]: Using epoll channel type
+[02:43:34] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:43:34] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[02:43:36] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loading 4 libraries... please wait
+[02:43:36] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Prueba/servidor_minecraft/libraries/net/kyori/adventure-api/4.16.0/adventure-api-4.16.0.jar
+[02:43:36] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Prueba/servidor_minecraft/libraries/net/kyori/adventure-key/4.16.0/adventure-key-4.16.0.jar
+[02:43:36] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Prueba/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[02:43:36] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Prueba/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[02:43:36] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Prueba/servidor_minecraft/libraries/org/jetbrains/annotations/24.1.0/annotations-24.1.0.jar
+[02:43:36] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Prueba/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.2/adventure-platform-bukkit-4.3.2.jar
+[02:43:36] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Prueba/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.2/adventure-platform-api-4.3.2.jar
+[02:43:36] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Prueba/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.2/adventure-text-serializer-bungeecord-4.3.2.jar
+[02:43:36] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Prueba/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.13.1/adventure-text-serializer-legacy-4.13.1.jar
+[02:43:36] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Prueba/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
+[02:43:36] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Prueba/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
+[02:43:36] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Prueba/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.2/adventure-platform-facet-4.3.2.jar
+[02:43:36] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Prueba/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.2/adventure-platform-viaversion-4.3.2.jar
+[02:43:36] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Prueba/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.16.0/adventure-text-minimessage-4.16.0.jar
+[02:43:36] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Prueba/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.16.0/adventure-text-serializer-gson-4.16.0.jar
+[02:43:36] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Prueba/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-json/4.16.0/adventure-text-serializer-json-4.16.0.jar
+[02:43:36] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Prueba/servidor_minecraft/libraries/net/kyori/option/1.0.0/option-1.0.0.jar
+[02:43:36] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Prueba/servidor_minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+[02:43:37] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loading 5 libraries... please wait
+[02:43:37] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Prueba/servidor_minecraft/libraries/net/kyori/adventure-api/4.20.0/adventure-api-4.20.0.jar
+[02:43:37] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Prueba/servidor_minecraft/libraries/net/kyori/adventure-key/4.20.0/adventure-key-4.20.0.jar
+[02:43:37] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Prueba/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[02:43:37] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Prueba/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[02:43:37] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Prueba/servidor_minecraft/libraries/org/jetbrains/annotations/26.0.2/annotations-26.0.2.jar
+[02:43:37] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Prueba/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.4/adventure-platform-bukkit-4.3.4.jar
+[02:43:37] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Prueba/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.4/adventure-platform-api-4.3.4.jar
+[02:43:37] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Prueba/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.4/adventure-text-serializer-bungeecord-4.3.4.jar
+[02:43:37] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Prueba/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
+[02:43:37] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Prueba/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
+[02:43:37] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Prueba/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.4/adventure-platform-facet-4.3.4.jar
+[02:43:37] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Prueba/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.4/adventure-platform-viaversion-4.3.4.jar
+[02:43:37] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Prueba/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.20.0/adventure-text-minimessage-4.20.0.jar
+[02:43:37] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Prueba/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.20.0/adventure-text-serializer-gson-4.20.0.jar
+[02:43:37] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Prueba/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-json/4.20.0/adventure-text-serializer-json-4.20.0.jar
+[02:43:37] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Prueba/servidor_minecraft/libraries/net/kyori/option/1.1.0/option-1.1.0.jar
+[02:43:37] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Prueba/servidor_minecraft/libraries/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar
+[02:43:37] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Prueba/servidor_minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+[02:43:37] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Prueba/servidor_minecraft/libraries/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar
+[02:43:37] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Prueba/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-commons/4.20.0/adventure-text-serializer-commons-4.20.0.jar
+[02:43:37] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Prueba/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.20.0/adventure-text-serializer-legacy-4.20.0.jar
+[02:43:37] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.5.0
+[02:43:37] [Server thread/INFO]: [ViaVersion] ViaVersion 5.5.0 is now loaded. Registering protocol transformers and injecting...
+[02:43:38] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[02:43:39] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[02:43:39] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.0
+[02:43:40] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[02:43:40] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.17+7262-c7fbe08
+[02:43:41] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@71932175]
+[02:43:41] [Server thread/INFO]: [VoidGen] Loading server plugin VoidGen v2.3.4
+[02:43:41] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.14+2339-43997ec
+[02:43:41] [Server thread/INFO]: [CoreLogging] Loading server plugin Multiverse-Core v5.3.4
+[02:43:41] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.22.0-dev+47-faa02b5
+[02:43:41] [Server thread/INFO]: [MythicMobs] Loading server plugin MythicMobs v5.11.0-86ca150e
+[02:43:41] [Server thread/INFO]: [LumineUtils] (io.lumine.mythic.bukkit.utils.) is bound to plugin MythicMobs - io.lumine.mythic.bukkit.MythicBukkit
+[02:43:41] [Server thread/INFO]: [MythicMobs] §x§f§f§0§0§0§0M§x§f§f§6§6§0§0y§x§f§f§c§c§0§0t§x§c§b§f§f§0§0h§x§6§5§f§f§0§0i§x§0§0§f§f§0§0c§x§0§0§f§f§6§6 §x§0§0§f§f§c§bE§x§0§0§c§b§f§fn§x§0§0§6§5§f§fa§x§0§0§0§0§f§fb§x§6§6§0§0§f§fl§x§c§c§0§0§f§fe§x§f§f§0§0§c§cd§x§f§f§0§0§6§6!
+[02:43:41] [Server thread/INFO]: [Multiverse-Portals] Loading server plugin Multiverse-Portals v5.1.1
+[02:43:41] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.22.0-dev+47-faa02b5
+[02:43:41] [Server thread/INFO]: [ItemEdit] Loading server plugin ItemEdit v3.7.7
+[02:43:41] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.22.0-dev+47-faa02b5
+[02:43:41] [Server thread/INFO]: [ConditionalEvents] Loading server plugin ConditionalEvents v4.72.2
+[02:43:41] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.9.0
+[02:43:41] [Server thread/INFO]: [AuraSkills] Loading server plugin AuraSkills v2.3.9
+[02:43:41] [Server thread/INFO]: [BrunoCore] Loading server plugin BrunoCore v1.0
+[02:43:41] [Server thread/INFO]: [Multiverse-NetherPortals] Loading server plugin Multiverse-NetherPortals v5.0.3
+[02:43:41] [Server thread/INFO]: [PlugManX] Loading server plugin PlugManX v3.0.2
+[02:43:41] [Server thread/INFO]: [ForcePack] Loading server plugin ForcePack v1.3.74-SNAPSHOT
+[02:43:41] [Server thread/INFO]: [Multiverse-Inventories] Loading server plugin Multiverse-Inventories v5.2.2
+[02:43:41] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:43:41] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.0
+[02:43:42] [Server thread/INFO]:         __    
+[02:43:42] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.0
+[02:43:42] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[02:43:42] [Server thread/INFO]: 
+[02:43:42] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[02:43:43] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[02:43:44] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[02:43:44] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[02:43:44] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2970ms)
+[02:43:44] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[02:43:44] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[02:43:44] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[02:43:44] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[02:43:44] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[02:43:44] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.17+7262-c7fbe08
+[02:43:45] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[02:43:45] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[02:43:45] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21_6.PaperweightAdapter as the Bukkit adapter
+[02:43:48] [Server thread/INFO]: [VoidGen] Enabling VoidGen v2.3.4
+[02:43:48] [Server thread/INFO]: [VoidGen] Using VoidChunkGen: VERSION_1_21_3
+[02:43:48] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.9.0
+[02:43:49] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
+[02:43:50] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[02:43:50] [Server thread/INFO]: [PlugManX] Enabling PlugManX v3.0.2
+[02:43:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:43:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[02:43:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[02:43:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[02:43:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[02:43:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[02:43:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:43:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.9.0
+[02:43:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 1565b8f
+[02:43:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[02:43:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:43:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[02:43:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[02:43:51] [Server thread/WARN]: [PlugManX] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02:43:51] [Server thread/WARN]: [PlugManX] It seems like you're running on paper.
+[02:43:51] [Server thread/WARN]: [PlugManX] PlugManX cannot interact with paper-plugins, yet.
+[02:43:51] [Server thread/WARN]: [PlugManX] Also, if you encounter any issues, please join my discord: https://discord.gg/GxEFhVY6ff
+[02:43:51] [Server thread/WARN]: [PlugManX] Or create an issue on GitHub: https://github.com/Test-Account666/PlugMan
+[02:43:51] [Server thread/WARN]: [PlugManX] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02:43:51] [Server thread/INFO]: [PlugManX] You can disable this warning by setting 'showPaperWarning' to false in the config.yml
+[02:43:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:43:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:43:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:43:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:43:51] [Server thread/INFO]: Preparing level "world"
+[02:43:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:43:53] [Server thread/INFO]: Preparing spawn area: 0%
+[02:43:53] [Server thread/INFO]: Preparing spawn area: 0%
+[02:43:53] [Server thread/INFO]: Preparing spawn area: 2%
+[02:43:54] [Server thread/INFO]: Preparing spawn area: 83%
+[02:43:54] [Server thread/INFO]: Time elapsed: 1645 ms
+[02:43:54] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:43:54] [Server thread/INFO]: Preparing spawn area: 0%
+[02:43:55] [Server thread/INFO]: Preparing spawn area: 2%
+[02:43:55] [Server thread/INFO]: Preparing spawn area: 2%
+[02:43:55] [Server thread/INFO]: Preparing spawn area: 2%
+[02:43:56] [Server thread/INFO]: Time elapsed: 1911 ms
+[02:43:56] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:43:56] [Server thread/INFO]: Preparing spawn area: 0%
+[02:43:56] [Server thread/INFO]: Time elapsed: 390 ms
+[02:43:56] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.5.0
+[02:43:56] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.7-1.21.8 (772)
+[02:43:56] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.14+2339-43997ec
+[02:43:57] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[02:43:57] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[02:43:57] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[02:43:57] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[02:43:57] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[02:43:57] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[02:43:57] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[02:43:57] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[02:43:57] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[02:43:57] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[02:43:57] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[02:43:57] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[02:43:57] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[02:43:57] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[02:43:57] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[02:43:57] [Server thread/INFO]: [WorldGuard] Loading region data...
+[02:43:57] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v5.3.4
+[02:43:58] [Server thread/INFO]: [VoidGen] 
+[02:43:58] [Server thread/INFO]: [VoidGen] > ——————————————————————[ world ]——————————————————————
+[02:43:58] [Server thread/INFO]: [VoidGen] > 
+[02:43:58] [Server thread/INFO]: [VoidGen] > Generator settings have not been set, we will use the default settings:
+[02:43:58] [Server thread/INFO]: [VoidGen] > {"biome":"the_void"}
+[02:43:58] [Server thread/INFO]: [VoidGen] > 
+[02:43:58] [Server thread/INFO]: [VoidGen] > ——————————————————————[ world ]——————————————————————
+[02:43:58] [Server thread/INFO]: [VoidGen] 
+[02:43:59] [Server thread/INFO]: Preparing start region for dimension minecraft:spawnimportar
+[02:43:59] [Server thread/INFO]: Preparing spawn area: 0%
+[02:43:59] [Server thread/INFO]: Preparing spawn area: 12%
+[02:43:59] [Server thread/INFO]: Time elapsed: 707 ms
+[02:43:59] [Server thread/INFO]: [WorldGuard] (spawnImportar) TNT ignition is PERMITTED.
+[02:43:59] [Server thread/INFO]: [WorldGuard] (spawnImportar) Lighters are PERMITTED.
+[02:43:59] [Server thread/INFO]: [WorldGuard] (spawnImportar) Lava fire is PERMITTED.
+[02:43:59] [Server thread/INFO]: [WorldGuard] (spawnImportar) Fire spread is UNRESTRICTED.
+[02:43:59] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'spawnImportar'
+[02:44:00] [Server thread/INFO]: Preparing start region for dimension minecraft:mina
+[02:44:00] [Server thread/INFO]: Preparing spawn area: 0%
+[02:44:00] [Server thread/INFO]: Preparing spawn area: 42%
+[02:44:00] [Server thread/INFO]: Time elapsed: 513 ms
+[02:44:00] [Server thread/INFO]: [WorldGuard] (mina) TNT ignition is PERMITTED.
+[02:44:00] [Server thread/INFO]: [WorldGuard] (mina) Lighters are PERMITTED.
+[02:44:00] [Server thread/INFO]: [WorldGuard] (mina) Lava fire is PERMITTED.
+[02:44:00] [Server thread/INFO]: [WorldGuard] (mina) Fire spread is UNRESTRICTED.
+[02:44:00] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'mina'
+[02:44:01] [Server thread/INFO]: [Multiverse-Core] API service loaded!
+[02:44:01] [Server thread/INFO]: [Multiverse-Core] Version 5.3.4 (API v5.3) Enabled - By dumptruckman, Rigby, fernferret, lithium3141, main--, benwoo1110 and Zax71
+[02:44:01] [Server thread/INFO]: [Multiverse-Core] Loving Multiverse-Core? Please consider supporting the project with a small donation: https://github.com/sponsors/Multiverse
+[02:44:01] [Server thread/INFO]: [VoidGen] VoidGen hooked into Multiverse!
+[02:44:01] [Server thread/INFO]: [Essentials] Enabling Essentials v2.22.0-dev+47-faa02b5
+[02:44:02] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[02:44:02] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[02:44:02] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[02:44:02] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[02:44:02] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[02:44:02] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[02:44:02] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[02:44:02] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[02:44:02] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[02:44:02] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[02:44:02] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[02:44:02] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[02:44:02] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[02:44:02] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[02:44:02] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[02:44:02] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[02:44:02] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[02:44:02] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[02:44:02] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[02:44:02] [Server thread/INFO]: [Essentials] Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
+[02:44:02] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[02:44:02] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[02:44:02] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[02:44:02] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[02:44:02] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[02:44:02] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[02:44:03] [Server thread/INFO]: [Essentials] Loaded 45989 items from items.json.
+[02:44:03] [Server thread/INFO]: [Essentials] Using locale en
+[02:44:03] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[02:44:04] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[02:44:04] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[02:44:04] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[02:44:04] [Server thread/INFO]: [MythicMobs] Enabling MythicMobs v5.11.0-86ca150e
+[02:44:04] [Server thread/INFO]: [MythicMobs] Loading MythicMobs for Paper (MC: 1.21.8)...
+[02:44:04] [Server thread/INFO]: [MythicMobs] The server is running Paper; enabled Paper exclusive functionality
+[02:44:08] [Server thread/INFO]: [MythicMobs] Mythic Vault Support has been enabled!
+[02:44:08] [Server thread/INFO]: [MythicMobs] Mythic WorldGuard Support has been enabled!
+[02:44:11] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[02:44:12] [Server thread/INFO]: [MythicMobs] Loading Items...
+[02:44:12] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[02:44:12] [Server thread/INFO]: [MythicMobs] All items loaded after 50ms!
+[02:44:12] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[02:44:12] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[02:44:12] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[02:44:12] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[02:44:12] [Server thread/INFO]: [MythicMobs] Second passes loaded after 20ms!
+[02:44:12] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[02:44:12] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[02:44:12] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[02:44:12] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 skills.
+[02:44:12] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[02:44:12] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[02:44:12] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[02:44:12] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[02:44:12] [Server thread/INFO]: [MythicMobs] MythicMobs configuration file loaded successfully.
+[02:44:12] [Server thread/INFO]: [MythicMobs] Started up bStats Metrics
+[02:44:12] [Server thread/INFO]: [MythicMobs] ✓ MythicMobs v5.11.0 ( build 86ca150e ) has been successfully loaded!
+[02:44:12] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v5.1.1
+[02:44:12] [Server thread/INFO]: [Multiverse-Portals] 0 - Portals(s) loaded
+[02:44:12] [Server thread/INFO]: [Multiverse-Portals] Found WorldEdit. Using it for selections.
+[02:44:12] [Server thread/INFO]: [Multiverse-Portals 5.1.1]  Enabled - By Rigby, fernferret and benwoo1110
+[02:44:12] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.22.0-dev+47-faa02b5
+[02:44:12] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[02:44:12] [Server thread/INFO]: [ItemEdit] Enabling ItemEdit v3.7.7
+[02:44:13] [Server thread/INFO]: [ItemEdit] Hooking into MiniMessageAPI see https://webui.advntr.dev/
+[02:44:13] [Server thread/INFO]: [ItemEdit] Selected Storage Type: YAML
+[02:44:13] [Server thread/INFO]: [ItemEdit] Hooking into Vault
+[02:44:13] [Server thread/INFO]: [ItemEdit] Hooking into MythicMobs
+[02:44:13] [Server thread/INFO]: [ItemEdit] # Enabled (took 314 ms)
+[02:44:13] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.22.0-dev+47-faa02b5
+[02:44:13] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[02:44:13] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.72.2
+[02:44:13] [Server thread/INFO]: [ConditionalEvents] Has been enabled! Version: 4.72.2
+[02:44:13] [Server thread/INFO]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
+[02:44:13] [Server thread/INFO]: [AuraSkills] Enabling AuraSkills v2.3.9
+[02:44:15] [Server thread/INFO]: [AuraSkills] Loaded 21 message files
+[02:44:15] [Server thread/INFO]: [AuraSkills] Successfully registered hook LuckPerms
+[02:44:15] [Server thread/INFO]: [AuraSkills] Successfully registered hook Vault
+[02:44:15] [Server thread/INFO]: [AuraSkills] Successfully registered hook WorldGuard
+[02:44:15] [Server thread/INFO]: [AuraSkills] Successfully registered hook MythicMobs
+[02:44:15] [Server thread/INFO]: [AuraSkills] Loaded 160 config options in 44 ms
+[02:44:15] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21.8! Trying to find NMS support
+[02:44:15] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R5' loaded!
+[02:44:15] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'AuraSkills' to create a bStats instance!
+[02:44:15] [Server thread/INFO]: [AuraSkills] Loaded 3 blocked/disabled worlds
+[02:44:15] [Server thread/INFO]: [AuraSkills] [ACF] Enabled Asynchronous Tab Completion Support!
+[02:44:16] [Server thread/INFO]: [BrunoCore] Enabling BrunoCore v1.0
+[02:44:16] [Server thread/INFO]: [BrunoCore] --- Iniciando BrunoCore ---
+[02:44:16] [Server thread/INFO]: [BrunoCore] ¡BrunoCore cargado correctamente!
+[02:44:16] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v5.0.3
+[02:44:16] [Server thread/INFO]: [Multiverse-NetherPortals 5.0.3]  Enabled - By Rigby, fernferret and benwoo1110
+[02:44:16] [Server thread/INFO]: [ForcePack] Enabling ForcePack v1.3.74-SNAPSHOT
+[02:44:16] [Server thread/INFO]: [ForcePack] Generated en_gb.yml
+[02:44:16] [Server thread/INFO]: [ForcePack] Generated es_es.yml
+[02:44:16] [Server thread/INFO]: [ForcePack] Generated zh_cn.yml
+[02:44:16] [Server thread/INFO]: [ForcePack] Generated zh_tw.yml
+[02:44:18] [Server thread/INFO]: [ForcePack] Performing version size check...
+[02:44:18] [Server thread/INFO]: 1.8-1.15 (50 MB): Supported.
+[02:44:18] [Server thread/INFO]: 1.16-1.17 (100 MB): Supported.
+[02:44:18] [Server thread/INFO]: 1.18+ (250 MB): Supported.
+[02:44:18] [Server thread/INFO]: Hash verification complete.
+[02:44:18] [Server thread/INFO]: [ForcePack] Generated resource pack (https://download.mc-packs.net/pack/ee1fd9333eec2437e60e9793fb43555e2d83a934.zip#ee1fd9333eec2437e60e9793fb43555e2d83a934) for version all with id f6b45ed3-f488-3170-ad8e-6447059a23ae
+[02:44:18] [Server thread/INFO]: [ForcePack] Completed loading resource packs.
+[02:44:18] [Server thread/INFO]: [Multiverse-Inventories] Enabling Multiverse-Inventories v5.2.2
+[02:44:18] [Server thread/INFO]: [Multiverse-Inventories] Loading player names map...
+[02:44:19] [Server thread/INFO]: [Multiverse-Inventories] Version 5.2.2 (API v5.2) Enabled - By dumptruckman and benwoo1110
+[02:44:19] [Server thread/INFO]: [spark] Starting background profiler...
+[02:44:20] [Server thread/INFO]: Done preparing level "world" (29.588s)
+[02:44:20] [Server thread/INFO]: Running delayed init tasks
+[02:44:20] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[02:44:20] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[02:44:20] [Craft Scheduler Thread - 6 - Essentials/INFO]: [Essentials] Fetching version information...
+[02:44:20] [Craft Scheduler Thread - 7 - ItemEdit/INFO]: [ItemEdit] NEW UPDATE (3.7.7 -> 3.7.8) available at https://modrinth.com/plugin/itemedit/version/latest
+[02:44:21] [Server thread/INFO]: [AuraSkills] Loaded 11 skills with 268 total sources
+[02:44:21] [Server thread/INFO]: [AuraSkills] Loaded 9 stats and 17 traits
+[02:44:21] [Server thread/INFO]: [AuraSkills] Loaded 22 pattern rewards and 0 level rewards
+[02:44:21] [Server thread/INFO]: [AuraSkills] Loaded 53 loot entries in 4 pools and 2 tables
+[02:44:21] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:44:21] [Server thread/INFO]: [AuraSkills] Loaded 7 menus
+[02:44:21] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.6.0, you're on: 5.5.0
+[02:44:21] [Server thread/INFO]: Done (70.360s)! For help, type "help"
+[02:44:21] [Craft Scheduler Thread - 7 - Vault/INFO]: [Vault] Checking for Updates ... 
+[02:44:21] [Craft Scheduler Thread - 6 - Essentials/WARN]: [Essentials] You're 1 EssentialsX dev build(s) out of date!
+[02:44:21] [Craft Scheduler Thread - 6 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
+[02:44:21] [Craft Scheduler Thread - 7 - Vault/INFO]: [Vault] No new version available
+[02:47:18] [User Authenticator #0/INFO]: UUID of player Bruno240707 is 26ed0e51-3dbb-3950-b9ae-1b7db8ac61c6
+[02:47:18] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [LuckPerms, WorldGuard]
+[02:47:22] [Server thread/WARN]: [Essentials] Permissions lag notice with (LuckPermsHandler). Response took 28.078155ms. Summary: Getting prefix for Bruno240707
+[02:47:22] [Server thread/INFO]: Bruno240707 joined the game
+[02:47:22] [Server thread/INFO]: Bruno240707[/127.19.211.102:38427] logged in with entity id 191 at ([world]68.75771368612882, 64.5625, -271.6892527062442)
+[02:47:31] [Server thread/INFO]: Bruno240707 lost connection: Disconnected
+[02:47:31] [Server thread/INFO]: Bruno240707 left the game
+[02:47:35] [User Authenticator #0/INFO]: UUID of player sdads is fb3917eb-9fe6-31ce-a729-d659b2ebdf67
+[02:47:35] [Server thread/INFO]: sdads joined the game
+[02:47:35] [Server thread/INFO]: sdads[/127.19.211.102:38249] logged in with entity id 421 at ([spawnImportar]-319.9953854579067, 62.0, -337.7630789808125)
+[02:47:36] [Server thread/INFO]: [Not Secure] [Server] sdads accepted the resource pack!
+[02:47:36] [Server thread/INFO]: [Not Secure] [Server] sdads finished downloading the resource pack!
+[02:47:37] [Server thread/INFO]: [Not Secure] [Server] sdads successfully loaded the resource pack!
+[02:48:51] [Server thread/INFO]: sdads lost connection: Disconnected
+[02:48:51] [Server thread/INFO]: sdads left the game
+[02:49:53] [User Authenticator #1/INFO]: UUID of player sdads is fb3917eb-9fe6-31ce-a729-d659b2ebdf67
+[02:49:54] [Server thread/INFO]: sdads joined the game
+[02:49:54] [Server thread/INFO]: sdads[/127.19.211.102:59823] logged in with entity id 440 at ([spawnImportar]-332.9260185123416, 56.9375, -331.744703207905)
+[02:49:54] [Server thread/INFO]: [Not Secure] [Server] sdads accepted the resource pack!
+[02:49:54] [Server thread/INFO]: [Not Secure] [Server] sdads finished downloading the resource pack!
+[02:49:55] [Server thread/INFO]: [Not Secure] [Server] sdads successfully loaded the resource pack!
+[02:50:12] [Server thread/INFO]: sdads lost connection: Disconnected
+[02:50:12] [Server thread/INFO]: sdads left the game
+[02:50:18] [User Authenticator #1/INFO]: UUID of player Bruno240707 is 26ed0e51-3dbb-3950-b9ae-1b7db8ac61c6
+[02:50:19] [Server thread/INFO]: Bruno240707 joined the game
+[02:50:19] [Server thread/INFO]: Bruno240707[/127.19.211.102:43389] logged in with entity id 441 at ([world]71.5287354043878, 62.156223805917364, -270.753208486098)
+[02:50:44] [Server thread/INFO]: Bruno240707 issued server command: /gamemode creative
+[02:51:36] [Server thread/INFO]: Bruno240707 issued server command: /mv tp world --unsafe
+[02:51:40] [Server thread/INFO]: Bruno240707 issued server command: /warp mina
+[02:51:49] [Server thread/INFO]: Bruno240707 fell from a high place
+[02:51:57] [Server thread/INFO]: Bruno240707 issued server command: /home
+[02:52:42] [Server thread/INFO]: Bruno240707 issued server command: /warp mina
+[02:52:42] [Server thread/INFO]: [Essentials] Bruno240707 was denied access to command.
+[02:53:14] [Server thread/INFO]: Bruno240707 issued server command: /gamemode creative
+[02:54:02] [Server thread/INFO]: Bruno240707 issued server command: /gamemode survival
+[02:54:07] [Server thread/INFO]: Bruno240707 issued server command: /gamemode creative
+[02:54:26] [Server thread/INFO]: Bruno240707 issued server command: /gamemode survival
+[02:54:32] [Server thread/INFO]: Bruno240707 issued server command: /gamemode creative
+[02:54:36] [Server thread/INFO]: Bruno240707 issued server command: /gamemode survival
+[02:54:40] [Server thread/INFO]: Bruno240707 issued server command: /deop B
+[02:54:42] [Server thread/INFO]: Bruno240707 issued server command: /deop B
+[02:54:43] [Async Chat Thread - #4/INFO]: [Not Secure] <Bruno240707> Bruno240707
+[02:54:46] [Server thread/INFO]: Bruno240707 issued server command: /deop Bruno240707
+[02:54:46] [Server thread/INFO]: [Bruno240707: Made Bruno240707 no longer a server operator]
+[02:55:23] [Server thread/INFO]: Made Bruno240707 a server operator
+[02:55:48] [Server thread/INFO]: Bruno240707 issued server command: /give @p minecraft:netherite_pickaxe{Enchantments:[{id:"minecraft:fortune",lvl:1000},{id:"minecraft:efficiency",lvl:5},{id:"minecraft:unbreaking",lvl:3},{id:"minecraft:mending",lvl:1}]}
+[02:56:00] [Server thread/INFO]: Bruno240707 issued server command: /give Bruno240707 minecraft:netherite_pickaxe{Enchantments:[{id:"minecraft:fortune",lvl:1000},{id:"minecraft:efficiency",lvl:5},{id:"minecraft:unbreaking",lvl:3},{id:"minecraft:mending",lvl:1}]}
+[02:56:02] [Server thread/INFO]: Bruno240707 issued server command: /give Bruno240707 minecraft:netherite_pickaxe{Enchantments:[{id:"minecraft:fortune",lvl:1000},{id:"minecraft:efficiency",lvl:5},{id:"minecraft:unbreaking",lvl:3},{id:"minecraft:mending",lvl:1}]}
+[02:56:16] [Server thread/INFO]: Bruno240707 issued server command: /give @p netherite_pickaxe{Enchantments:[{id:fortune,lvl:3},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:mending,lvl:1}]} 1
+[02:56:35] [Server thread/INFO]: Bruno240707 issued server command: /give @p netherite_pickaxe{Enchantments:[{id:fortune,lvl:3}]} 1
+[02:56:53] [Server thread/INFO]: Bruno240707 issued server command: /give @p netherite_pickaxe 1 0 { "minecraft:enchantments": [ { "id": "fortune", "lvl": 3 } ] }
+[02:57:19] [Server thread/INFO]: Bruno240707 issued server command: /give @p netherite_pickaxe{Enchantments:[{id:fortune,lvl:3}]} 1
+[02:57:22] [Server thread/INFO]: Bruno240707 issued server command: /give @p netherite_pickaxe{Enchantments:[{id:fortune,lvl:3}]}
+[02:58:25] [Server thread/INFO]: Bruno240707 issued server command: /give @p minecraft:netherite_pickaxe[minecraft:enchantments={id:fortune,lvl:3}]
+[02:58:31] [Server thread/INFO]: Bruno240707 issued server command: /give @p minecraft:netherite_pickaxe[minecraft:enchantments=fortune]
+[02:58:38] [Server thread/INFO]: Bruno240707 issued server command: /give @p minecraft:netherite_pickaxe[minecraft:enchantments="sda"]
+[02:58:53] [Server thread/INFO]: Bruno240707 issued server command: /give @p minecraft:netherite_pickaxe[minecraft:enchantments={levels:{fortune:3}}]
+[02:59:04] [Server thread/INFO]: Bruno240707 issued server command: /give @p minecraft:netherite_pickaxe[minecraft:enchantments={levels:{fortune:3}}]
+[02:59:18] [Server thread/INFO]: Bruno240707 issued server command: /minecraft:give @p minecraft:netherite_pickaxe[minecraft:enchantments=levels:{fortune:3]
+[02:59:22] [Server thread/INFO]: Bruno240707 issued server command: /minecraft:give @p minecraft:netherite_pickaxe[minecraft:enchantments=levels:fortune:3]
+[02:59:31] [Server thread/INFO]: Bruno240707 issued server command: /minecraft:give @p minecraft:netherite_pickaxe[minecraft:enchantments="levels:fortune:3"]
+[02:59:48] [Server thread/INFO]: Bruno240707 issued server command: /give @p minecraft:netherite_pickaxe[minecraft:enchantments={levels:{fortune:3}}]
+[02:59:59] [Server thread/INFO]: Bruno240707 issued server command: /gamemode creative
+[03:00:20] [Server thread/INFO]: Bruno240707 issued server command: /enchant fortune 3
+[03:00:28] [Server thread/INFO]: Bruno240707 issued server command: /gamemode survivla
+[03:00:53] [Server thread/INFO]: Bruno240707 issued server command: /gamemode creative
